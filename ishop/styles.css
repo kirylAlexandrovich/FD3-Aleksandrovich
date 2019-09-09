@@ -1,0 +1,11 @@
+.product-name {
+  font-size: 25px;
+  position: relative;
+  bottom: 140px;
+}
+
+.product-cost {
+  position: relative;
+  right: 60px;
+  bottom: 50px;
+}
